@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 //test
-
+//融融是大美女！！
 public class MainActivity extends ActionBarActivity {
 
     @Override
